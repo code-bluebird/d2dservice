@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFC50C</color>
+    <color name="colorPrimaryDark">#E5B009</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#FFFFFF</color>
+    <color name="transparent">#00000000</color>
+    <color name="editTextBG">#DADADA</color>
+    <color name="textcolor">#6e6e6e</color>
+    <color name="black">#000000</color>
+
+    <color name="lightGrey">#EEEEEE</color>
+    <color name="yellow">#EEFF41</color>
+    <color name="facebook">#3b5998</color>
+    <color name="instagram">#8B0000</color>
+    <color name="TransparentWhite">#cccccc</color>
+
+
+    <color name="gradient_end_color">#FFC50C</color>
+    <color name="gradient_start_color">#E5B009</color>
+
+    <!-- colors for tab and screent text -->
+
+    <color name="tab_indicator_gray">#c0c0c0</color>
+    <color name="intro_title_color">#000000</color>
+    <color name="intro_description_color">#656565</color>
+
+    <!--profile color-->
+
+    <color name="graylight">#fafafa</color>
+    <color name="startblue">#09c6df</color>
+    <color name="endblue">#0bcce6</color>
+</resources>
